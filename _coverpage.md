@@ -2,7 +2,7 @@
 
 # Guitar Pi
 
-> “你说那 C 和弦就是 Do Mi So”
+> 你说那 C 和弦就是 Do Mi So
 
 今天开始学习一点和声知识吧！
 
