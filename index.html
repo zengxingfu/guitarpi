@@ -154,6 +154,11 @@
       integrity="sha256-Coc8etTI4+r4NX7wx/D9yCFlTobmRrVJmaVYEN1mV6A="
       crossorigin="anonymous"
     ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.13.0/js/md5.min.js"
+      integrity="sha256-qlDpLxKXa1lzPjJ5vbWLDWbxuHT8d/ReH4E6dBDRRoA="
+      crossorigin="anonymous"
+    ></script>
     <script>
       const gitalk = new Gitalk({
         clientID: "ad9854786ee251277d4f",
@@ -161,6 +166,7 @@
         repo: "guitar-pi",
         owner: "zengxingfu",
         admin: ["zengxingfu"],
+        id: md5(window.location.pathname),
         // facebook-like distraction free mode
         distractionFreeMode: false,
       });
