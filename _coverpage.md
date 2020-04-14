@@ -1,4 +1,6 @@
-![logo](_media/logo.png)
+<!-- ![logo](_media/Red.png) -->
+
+![logo](_media/logo_vue.png)
 
 # Guitar Pi
 
