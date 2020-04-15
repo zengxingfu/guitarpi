@@ -123,34 +123,17 @@
         routerMode: "history",
         ga: "UA-81723127-7",
         formatUpdated: "更新于 {YYYY}-{MM}-{DD} {HH}:{mm}:{ss}",
+        footer: {
+          url: "/",
+          title: "Guitar Pi",
+          since: 2020,
+        },
       };
     </script>
     <!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
     <script
       src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/docsify.min.js"
       integrity="sha256-FgE+VCK8MTL8ly9vJI6laT3ysF0ny66cjJfq7/w/GPw="
-      crossorigin="anonymous"
-    ></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script> -->
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/search.min.js"
-      integrity="sha256-vh1ugp2si+8qeFcXeXy8ygFaDRWYZX/TBzVUa+96vYk="
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/zoom-image.min.js"
-      integrity="sha256-Hq4krdsx1gkaz4ektH4p0zs9n1oHe209cb9py5zsDtQ="
-      crossorigin="anonymous"
-    ></script>
-    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/ga.min.js"
-      integrity="sha256-gWtuB3NlaDLXLjC7QWKlsXRom3bqOiPng83W48VRuus="
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/gitalk.min.js"
-      integrity="sha256-kl2P5u4uACDuuvg7bxEEWj5ubD8PKkIPsHmFJlZdrP8="
       crossorigin="anonymous"
     ></script>
     <script
@@ -175,5 +158,30 @@
         distractionFreeMode: false,
       });
     </script>
+    <!-- <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/gitalk.min.js"
+      integrity="sha256-kl2P5u4uACDuuvg7bxEEWj5ubD8PKkIPsHmFJlZdrP8="
+      crossorigin="anonymous"
+      ></script> -->
+    <script src="./plugins.js"></script>
+    <script>
+      window.$docsify.plugins = plugins;
+    </script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/search.min.js"
+      integrity="sha256-vh1ugp2si+8qeFcXeXy8ygFaDRWYZX/TBzVUa+96vYk="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/zoom-image.min.js"
+      integrity="sha256-Hq4krdsx1gkaz4ektH4p0zs9n1oHe209cb9py5zsDtQ="
+      crossorigin="anonymous"
+    ></script>
+    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.11.2/plugins/ga.min.js"
+      integrity="sha256-gWtuB3NlaDLXLjC7QWKlsXRom3bqOiPng83W48VRuus="
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
