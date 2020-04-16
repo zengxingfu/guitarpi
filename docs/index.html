@@ -119,14 +119,21 @@
         // loadNavbar: false,
         loadSidebar: true,
         coverpage: true,
+        subMaxLevel: 4,
         search: "auto",
-        routerMode: "history",
+        // routerMode: "history",
         ga: "UA-81723127-7",
         formatUpdated: "更新于 {YYYY}-{MM}-{DD} {HH}:{mm}:{ss}",
         footer: {
           url: "/",
           title: "Guitar Pi",
           since: 2020,
+        },
+        pagination: {
+          previousText: "上一篇",
+          nextText: "下一篇",
+          crossChapter: true,
+          crossChapterText: true,
         },
       };
     </script>
@@ -183,5 +190,6 @@
       integrity="sha256-gWtuB3NlaDLXLjC7QWKlsXRom3bqOiPng83W48VRuus="
       crossorigin="anonymous"
     ></script>
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   </body>
 </html>
