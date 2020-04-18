@@ -10,12 +10,12 @@
 
 <!-- > First came music, then came theory. -->
 
-Music first, then theory.
+💡 Music first, then theory.
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 
-[Get Started](#写在前面)
+[Get Started](#大家好，我是弹吉他的派)
 
 <!-- 背景图片 -->
 
-![](_media/bg.jpg)
+![](https://ae01.alicdn.com/kf/Uc3a80d59ebc645c59fe983dcc4622203y.jpg)
