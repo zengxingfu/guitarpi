@@ -46,11 +46,11 @@ _Eason, Shall We Dance? Shall We Talk!, 2001_
 
 ## 讲什么
 
-其实在我分析了《单车》之后，基本上已经确定了 `Guitar Pi` 在一定时间内的节目形态，即我会围绕一首曲例（流行为主），来试着分析它的和声。
+其实分析歌曲《单车》就是一起完整节目的最小实践，这基本上确定了 `Guitar Pi` 在一定时间内的节目形态，即我会围绕一首歌曲（流行为主），来试着分析它（此处与下文提及的“分析”均特指和弦与和声）。
 
 !> 除和声之外，旋律与律动也是极其重要的部分，节目中可能粗浅提及，请原谅我暂时还没有能力与精力去展开，毕竟和声学已是一个庞大音乐知识体系，而我所知也仅为九牛一毛或有不足。
 
-我曾在很长一段时间内陷入一个误区——妄图找到一个精确的理论，来归纳或解释一首歌曲的和声，这个思路实际上非常狭隘。直到有一天我在查找接近和弦相关的资料，看到 [thejazzpianosite.com](http://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/passing-chords/) 这段话，解开了心结：
+我曾在很长一段时间内陷入一个误区——妄图找到一个精确的理论来分析一首歌曲，这个思路实际上非常狭隘。直到有一天我在查找接近和弦相关的资料，看到 [thejazzpianosite.com](http://www.thejazzpianosite.com/jazz-piano-lessons/jazz-chords/passing-chords/) 这段话，解开了心结：
 
 > It’s important to remember that: **first came music, then came theory**. A musician writes a particular chord progression that happens to sound good, and then it’s up to the theoretician to figure out why it sounds good. And in order to do this, they come up with various ideas and concepts. Because of this, there are a number of different ways to analyse the same chord progression. We will find this is the case with many of the concepts we cover in the future.
 
@@ -62,13 +62,13 @@ _Eason, Shall We Dance? Shall We Talk!, 2001_
 
 我尚在入门之时，观看了大量的教学视频，它们像我的老师一样，给予我很大的帮助。如今我的需求更进阶了，很多问题需要自己查阅资料、不断尝试去解决。从初始到进阶的过程，我的体会是“知其然，亦可知其所以然”。
 
-于是我做了一点调研，总体来看，同类视频的很大一部分受众需要通过观看视频学会弹奏一首歌。因此组织 `Guitar Pi` 的节目内容，我会尝试先去满足这一需求（这并不意味着我会完整演示如何弹奏，毕竟那是你吉他老师的工作），在此基础上，从和声学的角度谈一些理解。我希望这个节目是一个教程，也不只是一个教程。
+于是我做了一点调研，总体来看，同类视频的很大一部分受众需要通过观看视频学会弹奏一首歌。因此组织 `Guitar Pi` 的节目内容，我会尝试先去满足这一需求（这并不意味着我会完整演示如何弹奏，毕竟那是你吉他老师的工作）。至此，仅仅完成了节目最基础的部分，歌曲分析往往具有更大的意义，因为相较于确定调性、和弦，分析它们显得更为主观，体现着人对作品的思考。我希望这个节目是一个教程，也不只是一个教程。
 
 ?> 就曲谱而言，节目里的歌曲都有谱例，它们并非从网络各处随意拼凑而来，而是由我制作、精校。并且，它们是免费的，你可以随时下载到本地，或者分享给任何人。
 
 也许你怀揣以下的期待到来，相信 `Guitar Pi` 不会让你失望：
 
-- 探索歌曲和声背后的规律，那么欢迎你，我们一起来交流；
+- 尝试了解歌曲的和弦与和声，那么欢迎你，我们一起来交流；
 - 学会一个更为接近歌曲原版伴奏弹法，这个频道应该能够满足你的需求;
 - 只是不小心刷到了你喜欢的歌，来听听歌吧，说不定它能帮你开启一扇新世界的大门；
 - 讲得不对或不好，请不要吝惜你的批评或意见，因为这对我来说很重要，这是一个自由开放的频道，修正错误必要且紧急。
