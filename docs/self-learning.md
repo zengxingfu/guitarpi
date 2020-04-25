@@ -36,7 +36,7 @@
 
 推荐由 Berklee College of Music 提供的[音乐技巧开发 专项课程](https://www.coursera.org/specializations/musicianship-specialization)，如果你不需要 Coursera 证书，那么它是完全免费的。
 
-## Jazz Piano Lessonse
+## Jazz Piano Lessons
 
 [thejazzpianosite](http://www.thejazzpianosite.com/)
 
