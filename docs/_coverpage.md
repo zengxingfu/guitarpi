@@ -14,7 +14,7 @@
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
 
-[开始](#大家好，我是弹吉他的派)
+[Get Started](#大家好，我是弹吉他的派)
 
 <!-- 背景图片 -->
 
