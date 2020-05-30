@@ -6,7 +6,7 @@
 
 ---
 
-[![单车封面图](https://ae01.alicdn.com/kf/H6a7f88af491145269094d131fc64ad23Q.png)](https://www.bilibili.com/video/BV1sv411z7zT/)
+[![单车封面图](https://ae01.alicdn.com/kf/H5eca2803d35a47c690f55e91b158f4d6A.png)](https://www.bilibili.com/video/BV1sv411z7zT/)
 
 朋友们，今天要和大家分享的是陈奕迅的《单车》。
 
