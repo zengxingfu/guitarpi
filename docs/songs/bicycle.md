@@ -6,6 +6,8 @@
 
 ---
 
+[![单车封面图](https://ae01.alicdn.com/kf/H6a7f88af491145269094d131fc64ad23Q.png)](https://www.bilibili.com/video/BV1sv411z7zT/)
+
 朋友们，今天要和大家分享的是陈奕迅的《单车》。
 
 单车这首歌是我想做这个频道的动机之一。它和万千流行歌一样，使用了我们熟知的卡农和弦进行。
