@@ -7,3 +7,4 @@
   - [#1 陈奕迅《单车》](/songs/bicycle)
   - [#2 大贯妙子/坂本龙一《红蜻蜓》](/songs/aka-tombo)
   - [#3 五月天《你说那 C 和弦就是…》](/songs/c-chord)
+  - [#4 周杰伦《Mojito》](/songs/mojito)
