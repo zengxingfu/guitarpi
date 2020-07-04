@@ -1,0 +1,60 @@
+# 什么是调式音阶？
+
+—— GuitarPi 分析张国荣《春夏秋冬》
+
+{docsify-updated}
+
+---
+
+[![https://ae01.alicdn.com/kf/Hf182ddada34d45578ba2a3f048275363c.jpg](https://ae01.alicdn.com/kf/Hf182ddada34d45578ba2a3f048275363c.jpg)](https://www.bilibili.com/video/BV1rf4y117Ds/)
+
+《春夏秋冬》这首歌如果只听旋律，我最爱的一句是它的副歌，里面的 Hook 太抓耳了。我第一次听的时候就被深深地吸引，如此隽永的一条旋律：
+
+![](https://ae01.alicdn.com/kf/Hf62007b7538a48a7ba1625e0cebbe08at.jpg)
+
+“能同途偶遇在这星球上”，我们来看看这一句的和弦，我觉得最惊喜的地方莫过于“星球上”这里用了一个二级大三和弦的第一转位解决到属功能和弦，非常漂亮。
+
+对于 2 6 7 这样一条旋律我们通常能想到使用 ii - V 的和弦进行，也就是 D#m - G#，如果 II 级和弦使用 D#/G 来替换 ，那么它到 G# 和弦的倾向性会更强烈一些，并且会加入一种离调和弦的色彩。这也是我认为这首歌的 Hook 之所以非常抓耳的原因。
+
+同样的，后面“这个世界好得很”一句也使用了 D#/G - G# 的和弦进行。
+
+如果我们连同前面的 F# 和弦来看，D#/G 也可以理解为一个 F# - G# 的经过和弦，它们的低音声部正好是一个半音上行。
+
+（IV - II6 - V）这个和弦进行在古典音乐里，能找到一个很经典的例子是巴赫的 G 弦上的咏叹调：
+
+![](https://ae01.alicdn.com/kf/He655cc3413204793b5091c2c481134558.jpg)
+
+当然，在流行歌里，也有很经典的应用，比如狮子的主题曲：
+
+![](https://ae01.alicdn.com/kf/Hae220c21ae4a461faf154ee469318089k.jpg)
+
+接下来我们继续聊一聊《春夏秋冬》这首歌的间奏，它是一个非常棒的调试音阶的例子。
+
+我们来看间奏的第 4 小节，它用到的和弦是 C#m，注意看旋律中的 E♮ 与 B♮，不难发现，这正好是一条 C# Dorian 音阶。
+
+![](https://ae01.alicdn.com/kf/Hfe784d0345934675837f3f58daba235fR.jpg)
+
+相比于自然大调音阶，Dorian 音阶的 III 级与 VII 级降低了半音，它的三度堆叠正好构成一个小七和弦。所以对于持续一个小节的小三（七）和弦，可以使用 Dorian 音阶进行旋律写作或是即兴。
+
+同样的，在第 8 小节后两拍的 F#m 和弦，对应 F# Dorian 音阶（E♮ 为 VII 级）。
+
+---
+
+<center>
+<img src="https://ae01.alicdn.com/kf/H9895f02fc19d4932af71c0593d2e356d0.jpg"/>
+
+关注我的公众号：guitarpi，可以第一时间收到更新提醒哦！
+
+</center>
+
+---
+
+附谱例：
+
+![](https://ae01.alicdn.com/kf/Hfce738862448408d99101077c55974b4O.jpg)
+
+![](https://ae01.alicdn.com/kf/H0a56c86da6d345c98b0fd4013901d7b3J.jpg)
+
+间奏（六线谱由 MuseScore 自动生成，仅供参考，可能需要调整把位）：
+
+![](https://ae01.alicdn.com/kf/H477c0ff5581541caa6cec24e6fbcd484M.jpg)

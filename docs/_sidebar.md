@@ -9,3 +9,4 @@
   - [#3 五月天《你说那 C 和弦就是…》](/songs/c-chord)
   - [#4 周杰伦《Mojito》](/songs/mojito)
   - [#5 李宗盛《给自己的歌》](/songs/jonathans-song)
+  - [#6 张国荣《春夏秋冬》](/songs/4ji)
