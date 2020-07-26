@@ -2,7 +2,7 @@
 
 <!-- ![logo](_media/logo_app.png) -->
 
-# Guitar Pi
+# GuitarPi
 
 > 你说那 C 和弦就是 Do Mi So
 
