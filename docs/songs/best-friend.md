@@ -12,13 +12,15 @@
 根据 jazzpianosite 的解释：
 > A line cliché is a stepwise line (either descending or ascending) that moves against a single stationary chord. It allows the composer to sustain a particular chord while adding some movement and interest to an otherwise boring and static progression.
 
-《最佳损友》这首歌是 E 大调，主歌的前三小节维持了它的主和弦，是一个 E - Emaj7 - E7 的和弦进行，要找出它的步进线条，可以从 Voice Leading 的角度来理解，这三个和弦几乎保留了大部分的共同音，唯一的移动是高音部的 3 - #2 - 2，也就是 Line Clichés 的下行步进线条。同理，之后的 IV - I - II 级和弦，尽管没有维持一个固定的和弦，不过他们的和弦内音延续了前三小节的步进线条。整体来看，五线谱可能是更为直观的表达。
+《最佳损友》这首歌是 E 大调，主歌的前三小节维持了它的主和弦，是一个 E - Emaj7 - E7 的和弦进行，要找出它的步进线条，可以从 Voice Leading 的角度来理解，这三个和弦几乎保留了大部分的共同音，唯一的移动是高音部的 3 - #2 - 2，也就是 Line Clichés 的下行步进线条。
+
+同理，之后的 IV - I - II 级和弦，尽管没有维持一个固定的和弦，不过他们的和弦内音延续了前三小节的步进线条。整体来看，五线谱可能是更为直观的表达。
 
 ![](https://yanxuan.nosdn.127.net/596a38be048832c264d8ab655393e47d.jpg)
 
 可以看到从第一小节开始，3 - #2 - 2 - #1 - 1 - 7 - #6 这样一条下行的斜线。
 
-关于 Line Clichés 的中文翻译，“克里斜”“动斜线”“旋律动线”存在好多种版本，如果你打开 Google Translate，大概会得到“线条陈词滥调”这个结果。
+关于 Line Clichés 的中文翻译，“克里斜”“动斜线”“旋律动线”存在好多种版本，如果你打开 Google Translate，大概会得到“线条陈词滥调”这个结果：
 
 ```
 线条陈词滥调
@@ -42,4 +44,4 @@ Line Clichés 在流行音乐里非常实用，比如孙燕姿《我怀念的》
 
 附谱例：
 
-![](https://yanxuan.nosdn.127.net/78ea292be829e94c03fcfed9ba11dc2c.png)
+![](https://p.pstatp.com/origin/100100000eb75a5ec0791)
