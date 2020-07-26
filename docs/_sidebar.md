@@ -10,3 +10,4 @@
   - [#4 周杰伦《Mojito》](/songs/mojito)
   - [#5 李宗盛《给自己的歌》](/songs/jonathans-song)
   - [#6 张国荣《春夏秋冬》](/songs/4ji)
+  - [#7 陈奕迅《最佳损友》](/songs/best-friend)
