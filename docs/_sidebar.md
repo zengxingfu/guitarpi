@@ -12,3 +12,4 @@
   - [#6 张国荣《春夏秋冬》](/songs/4ji)
   - [#7 陈奕迅《最佳损友》](/songs/best-friend)
   - [#8 莫文蔚《宝贝》](/songs/darling)
+  - [#9 梁咏琪《原来爱情这么伤》](/songs/so-love-hurts)
