@@ -6,6 +6,8 @@
 
 ---
 
+[![](https://pic.imgdb.cn/item/6394c3eab1fccdcd3665e58d.png)](https://www.bilibili.com/video/BV1pG4y137s4)
+
 GuitarPi 这个频道一年多没更新了。直到昨天，我的小号不知不觉中晋级 LV6，才知做 UP 之不易，做不脱更的 UP 更不易。
 
 于是，我准备更新一期视频，分享这一首《无条件 (Live Version)》。
