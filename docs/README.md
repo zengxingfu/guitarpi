@@ -6,7 +6,7 @@
 
 朋友们，最近我做了一个愉快的决定，开设一个音乐频道。尽管一年多以前就已小试牛刀，皆是不太严肃的作品，茶余饭后亦鲜有人观看。不过，这些作品现在已成为过去式了。庚子年伊始，禁足多日，构思了好多选题，重操旧业，热情不减当年，也深谙创作之艰辛，好在平日勤于观摩学习，积累了些经验。当然，这个频道是从零开始的，没有存量内容，没有粉丝，一切由我本人来经营，我的心愿，就是能够坚持下来，风雨无阻，不开天窗。
 
-![](https://ae01.alicdn.com/kf/H2115779acd8b4affa960a65b931dfa07P.jpg)
+![](https://pic.imgdb.cn/item/63980dc9b1fccdcd36e2b739.jpg)
 
 关于这个频道，请允许我试着回答这三个问题：
 
@@ -38,7 +38,7 @@
 
 订阅我的频道，或许能够给你一些新的启发。
 
-![Shall We Dance? Shall We Talk!](https://ae01.alicdn.com/kf/U3e3d723798834908b040a4ef583c1726V.jpg)
+![Shall We Dance? Shall We Talk!](https://pic.imgdb.cn/item/63980e34b1fccdcd36e38fea.png)
 
 _Eason, Shall We Dance? Shall We Talk!, 2001_
 
