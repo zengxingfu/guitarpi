@@ -113,15 +113,15 @@ V/V  ->  V  -> I
 
 ---
 
+附谱例，请参考：
+
+![](https://ae01.alicdn.com/kf/H33a5ade15ffb48adab6fd0f7830aa880G.jpg)
+
+---
+
 <center>
 <img src="https://ae01.alicdn.com/kf/H9895f02fc19d4932af71c0593d2e356d0.jpg"/>
 
 关注我的公众号：guitarpi，可以第一时间收到更新提醒哦！
 
 </center>
-
----
-
-附谱例，请参考：
-
-![](https://ae01.alicdn.com/kf/H33a5ade15ffb48adab6fd0f7830aa880G.jpg)

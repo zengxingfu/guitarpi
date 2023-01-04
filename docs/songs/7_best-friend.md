@@ -30,6 +30,11 @@
 
 Line Clichés 在流行音乐里非常实用，比如孙燕姿《我怀念的》以及 Frankie Valli CAN'T TAKE MY EYES OFF YOU。
 
+---
+
+附谱例：
+
+![](https://p.pstatp.com/origin/100100000eb75a5ec0791)
 
 ---
 
@@ -39,9 +44,3 @@ Line Clichés 在流行音乐里非常实用，比如孙燕姿《我怀念的》
 关注我的公众号：guitarpi，可以第一时间收到更新提醒哦！
 
 </center>
-
----
-
-附谱例：
-
-![](https://p.pstatp.com/origin/100100000eb75a5ec0791)

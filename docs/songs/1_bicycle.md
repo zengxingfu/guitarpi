@@ -84,16 +84,16 @@ G  G7/F  C/E  Cm/Eb  G/D  A7/Db  C  D
 
 ---
 
+附谱例：
+![单车-1](https://ae01.alicdn.com/kf/Hdcfce099b68d491e8c150e9a24241a0a1.jpg)
+![单车-2](https://ae01.alicdn.com/kf/H0dd5c746914a4de9a10cb94fe479a68dG.jpg)
+![单车-3](https://ae01.alicdn.com/kf/H0a57a500ca18468e9bc1e35a7d8e3deds.jpg)
+
+---
+
 <center>
 <img src="https://ae01.alicdn.com/kf/H9895f02fc19d4932af71c0593d2e356d0.jpg"/>
 
 关注我的公众号：guitarpi，可以第一时间收到更新提醒哦！
 
 </center>
-
----
-
-附谱例：
-![单车-1](https://ae01.alicdn.com/kf/Hdcfce099b68d491e8c150e9a24241a0a1.jpg)
-![单车-2](https://ae01.alicdn.com/kf/H0dd5c746914a4de9a10cb94fe479a68dG.jpg)
-![单车-3](https://ae01.alicdn.com/kf/H0a57a500ca18468e9bc1e35a7d8e3deds.jpg)

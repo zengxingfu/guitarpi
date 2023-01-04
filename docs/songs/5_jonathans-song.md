@@ -48,15 +48,6 @@ Hello 亲爱的朋友们，我们又见面了，我是弹吉他的派, 今天要
 
 ---
 
-<center>
-<img src="https://ae01.alicdn.com/kf/H9895f02fc19d4932af71c0593d2e356d0.jpg"/>
-
-关注我的公众号：guitarpi，可以第一时间收到更新提醒哦！
-
-</center>
-
----
-
 附谱例：
 
 ![](https://ae01.alicdn.com/kf/H94ea3bc168f148f583fbfe8eb9713f26b.jpg)
@@ -64,3 +55,12 @@ Hello 亲爱的朋友们，我们又见面了，我是弹吉他的派, 今天要
 ![](https://ae01.alicdn.com/kf/He8157caa56d64394b866cbe8e7fe1d0eS.jpg)
 
 ![](https://ae01.alicdn.com/kf/H749a5985db1d402b8d778643b0803f61H.jpg)
+
+---
+
+<center>
+<img src="https://ae01.alicdn.com/kf/H9895f02fc19d4932af71c0593d2e356d0.jpg"/>
+
+关注我的公众号：guitarpi，可以第一时间收到更新提醒哦！
+
+</center>
