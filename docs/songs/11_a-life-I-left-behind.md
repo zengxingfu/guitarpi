@@ -6,7 +6,7 @@
 
 ---
 
-[![](https://pic.imgdb.cn/item/63b58687be43e0d30e7296f4.png)](https://www.bilibili.com/video/BV1pG4y137s4)
+[![](https://pic.imgdb.cn/item/63b58687be43e0d30e7296f4.png)](https://www.bilibili.com/video/BV1CG4y1176k)
 
 这一期视频早几周就录制好了，迟迟没有做好发布的准备。去年12月下旬来，感染新冠，纯纯牛马，每天晚上坐在电脑前看几个视频就犯困，忽觉发布一期视频比制作本身更麻烦。
 
